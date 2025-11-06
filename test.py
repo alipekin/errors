@@ -1,5 +1,5 @@
 # Syntax Error
-# return "DataCamp"
+# return "Dönüş Cümlesi"
 
 #Girinti Hatası
 # def fun():
